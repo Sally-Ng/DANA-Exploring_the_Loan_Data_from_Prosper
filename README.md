@@ -2,7 +2,7 @@
 
 Sofeware: Tableau </br>
 Skills: Data visualization, Descriptive Statistics </br>
-Used descriptive statistics and Chi Sqaure Test for Independence to investigate factors that made people more likely to survive. </br>
+Created a data visualization that tells a story and highlights patterns about loan in the loan data set from Prosper using Tableau. </br>
 Link of the Tableau Story: https://public.tableau.com/profile/sally.ng3979#!/vizhome/ExploringtheLoanDatafromProsper/ExploringtheLoanDatafromProsper?publish=yes </br>
 <p align="left">
   <img src="symbol_map.JPG" width="500"/>
